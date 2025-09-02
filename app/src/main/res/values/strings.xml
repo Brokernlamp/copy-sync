@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Universal Clipboard</string>
+    <string name="notification_channel_name">Clipboard Sync</string>
+    <string name="notification_channel_desc">Keeps clipboard in sync across devices</string>
+</resources>
